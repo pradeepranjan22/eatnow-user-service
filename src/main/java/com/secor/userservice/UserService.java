@@ -1,14 +1,14 @@
-package com.secor.jdev25authservice;
+package com.secor.userservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Jdev25AuthServiceApplication {
+public class UserService {
 
     public static void main(String[] args) {
 
-        SpringApplication.run(Jdev25AuthServiceApplication.class, args);
+        SpringApplication.run(UserService.class, args);
 
     }
 
